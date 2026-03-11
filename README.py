@@ -15,7 +15,7 @@ print("Group Number: " + grpnumber)
 # Python - Variable Names
 # a. Create 4 variable names using the firstnames of your group members. Your name should not be included.
 mark_joshua = "Member 1"
-john_mark = "Member 2"
+kevin_dave = "Member 2"
 j0hn_chris = "Member 3"
 eliezar = "Member 4"
 jake = "Member 5"
